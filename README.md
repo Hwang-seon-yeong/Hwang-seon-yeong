@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a computer science student at Yeungnam University.
 
 <!--
 **Hwang-seon-yeong/Hwang-seon-yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
