@@ -1,26 +1,35 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there 👋 I'm [당신의 이름]</h1>
-<p align="center">🖤 Passionate Developer | Creative Thinker | Lifelong Learner 🧠</p>
+<h1 align="center">안녕하세요! 👋 저는 영남대 컴공생입니다.</h1>
+<p align="center">👨‍💻 AI 보안에 관심 있는 컴퓨터공학과 대학생입니다. 끊임없이 배우고 성장하는 개발자가 되는 게 목표입니다!</p>
+
+---
+
+### 🎓 About Me
+- 🎓 영남대학교 컴퓨터공학과 재학 중  
+- 🔐 인공지능 기반 보안(AI Security)에 관심  
+- 💻 사용하는 언어: C, C++, Python  
+- 🌱 현재 머신러닝 & 보안 관련 프로젝트 진행 중
 
 ---
 
 ### 🧰 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<p>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cpp&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
 ---
 
-### 🖤 My Current Dev State
-<p align="left">
-  <img src="https://img.shields.io/badge/🎧%20Listening-LoFi%20Beats-555?style=flat-square&logo=spotify&logoColor=1DB954"/>
-  <img src="https://img.shields.io/badge/💡%20Mood-Inspired-555?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🛠%20Working_on-Dark%20UI%20Project-555?style=flat-square"/>
+### 📌 GitHub State
+<p>
+  <img src="https://img.shields.io/badge/🎯%20Goal-Learn_AI_Security-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠%20Thinking-Deep_Learning_Models-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚙️%20Using-C_/_C++_/_Python-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓%20School-Yeungnam_University-555?style=flat-square" />
 </p>
 
 ---
@@ -33,9 +42,8 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with me
 <p align="center">
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-1a1a1a?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
