@@ -23,21 +23,33 @@
 
 ---
 
-### 📊 GitHub State
+<h3 align="left">📊 Sung Hyeon KIM's GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=깃허브유저이름&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=깃허브유저이름&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=깃허브유저이름&theme=github_dark&utcOffset=9" />
-</p>
+<table style="width:100%; max-width:400px; background-color:#1d1b2f; color:#f5f5f5; border-radius:10px; padding:1rem;">
+  <tr>
+    <td>⭐️ <b>Total Stars Earned:</b></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>📆 <b>Total Commits (2022):</b></td>
+    <td>83</td>
+  </tr>
+  <tr>
+    <td>🔀 <b>Total PRs:</b></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>🐞 <b>Total Issues:</b></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>📂 <b>Contributed to:</b></td>
+    <td>0</td>
+  </tr>
+</table>
 
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=깃허브유저이름&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=깃허브유저이름&theme=tokyonight" />
+<p align="right">
+  <img src="https://img.shields.io/badge/GitHub_Grade-A%2B-ff4081?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
