@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="left">📊 Sung Hyeon KIM's GitHub Stats</h3>
+<h3 align="left">📊 Hwang Seon Yeong's GitHub Stats</h3>
 
 <table style="width:100%; max-width:400px; background-color:#1d1b2f; color:#f5f5f5; border-radius:10px; padding:1rem;">
   <tr>
