@@ -23,13 +23,14 @@
 
 ---
 
-### 📌 GitHub State
-<p>
-  <img src="https://img.shields.io/badge/🎯%20Goal-Learn_AI_Security-555?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧠%20Thinking-Deep_Learning_Models-555?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚙️%20Using-C_/_C++_/_Python-555?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓%20School-Yeungnam_University-555?style=flat-square" />
+### 📊 GitHub State
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=깃허브유저이름&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=깃허브유저이름&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=깃허브유저이름&theme=github_dark&utcOffset=9" />
 </p>
+
 
 ---
 
